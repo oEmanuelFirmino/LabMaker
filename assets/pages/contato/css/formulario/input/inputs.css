@@ -1,0 +1,29 @@
+@import url("../../../css/dark-theme.css");
+
+/* Mobile */
+.input-padrao {
+  border: 1px solid black;
+  border-radius: 12px;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 70%;
+  background-color: var(--quintenary-color);
+}
+
+/* Desktop */
+@media screen and (min-width: 1024px) {
+  .input-padrao {
+    border: 1px solid black;
+    border-radius: 12px;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 90%;
+    background-color: var(--quintenary-color);
+  }
+}
+
+/******************************************************************************
+**                                                                           **
+**           Developed by Emanuel Firmino & Gabriel Cruz                     **
+**                                                                           **
+*******************************************************************************/

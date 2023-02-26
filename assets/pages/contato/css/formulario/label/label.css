@@ -1,0 +1,23 @@
+/* Mobile */
+label {
+  justify-self: flex-start;
+  padding: 5px 20px;
+}
+
+#mensagem {
+  resize: none;
+}
+
+/* Desktop */
+@media screen and (min-width: 1024px) {
+  label {
+    justify-self: flex-start;
+    padding: 5px 20px;
+  }
+}
+
+/******************************************************************************
+**                                                                           **
+**           Developed by Emanuel Firmino & Gabriel Cruz                     **
+**                                                                           **
+*******************************************************************************/

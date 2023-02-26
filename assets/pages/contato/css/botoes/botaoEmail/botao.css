@@ -1,0 +1,21 @@
+.botao__email {
+  border: none;
+  border-radius: 200px;
+  width: 30px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  display: grid;
+  background: rgb(133, 133, 133);
+}
+.icone_email {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+
+/******************************************************************************
+**                                                                           **
+**           Developed by Emanuel Firmino & Gabriel Cruz                     **
+**                                                                           **
+*******************************************************************************/

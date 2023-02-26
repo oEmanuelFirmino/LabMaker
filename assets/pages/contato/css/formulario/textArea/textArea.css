@@ -1,0 +1,16 @@
+/* Mobile */
+#mensagem {
+  resize: none;
+}
+/* Desktop */
+@media screen and (min-width: 1024px) {
+  #mensagem {
+    resize: none;
+  }
+}
+
+/******************************************************************************
+**                                                                           **
+**           Developed by Emanuel Firmino & Gabriel Cruz                     **
+**                                                                           **
+*******************************************************************************/

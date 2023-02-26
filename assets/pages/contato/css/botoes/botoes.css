@@ -1,0 +1,20 @@
+.botaoComLinkParaOutrasPaginasDoMaker {
+  display: inline-flex;
+  flex-direction: row;
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+.botao__insta:hover,
+.botao__mundo:hover,
+.botao__email:hover,
+.botao__mapa:hover {
+  transform: scale(1.075);
+  transition: 0.7s;
+}
+
+/******************************************************************************
+**                                                                           **
+**           Developed by Emanuel Firmino & Gabriel Cruz                     **
+**                                                                           **
+*******************************************************************************/
